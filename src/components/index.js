@@ -1,0 +1,6 @@
+export { default as SectionTitle } from "./SectionTitle"
+export { default as FeaturesImage } from "./FeaturesImage"
+export { default as IconCircle } from "./IconCircle"
+export { default as UpSpan } from "./UpSpan"
+export { default as TextBlock } from "./TextBlock"
+export { default as QuarklycommunityKitCarousel } from "./QuarklycommunityKitCarousel"
